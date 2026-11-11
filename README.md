@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./1.png" alt="Claymon Muntu" width="180" style="border-radius: 50%;" />
 
 # Hey, I'm Claymon 👋
 
